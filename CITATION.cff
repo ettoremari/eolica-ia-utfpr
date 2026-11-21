@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Se utilizar ou citar este repositório, cite a versão arquivada correspondente."
+title: "EÓLICA-IA — UTFPR"
+type: software
+authors:
+  - name: "A PREENCHER"
+version: 0.1.0
+date-released: 2026-11-21
+abstract: "Estrutura documental de protocolo e acompanhamento de pesquisa sobre aprendizagem e desenvolvimento tecnológico assistidos por IA em aplicação eólica."
