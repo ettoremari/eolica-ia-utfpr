@@ -1,7 +1,7 @@
 # EÓLICA-IA — UTFPR Londrina
 
 **Projeto de pesquisa e desenvolvimento tecnológico assistido por inteligência artificial**  
-Versão documental: 0.1.0 (estrutura inicial; não constitui aprovação institucional ou orientação técnica).
+Versão documental: 0.2.0 (estrutura inicial; não constitui aprovação institucional ou orientação técnica).
 
 ## Objetivo
 
@@ -21,6 +21,12 @@ Abra [`00_GESTAO/LISTA_DE_PREENCHIMENTO.md`](00_GESTAO/LISTA_DE_PREENCHIMENTO.md
 
 **Não estude engenharia eólica antes de concluir a linha de base inicial**, descrita em `01_LINHA_DE_BASE/`. O diagnóstico inclui questões de desempenho; não consulte IA, internet, livros ou terceiros durante a aplicação inicial, salvo se a instrução de uma questão permitir.
 
+## Acompanhamento da IA
+
+O diretório [`11_ACOMPANHAMENTO_IA/`](11_ACOMPANHAMENTO_IA/README.md) formaliza a participação da IA. Nele serão registrados pesquisas e fontes consultadas, feedbacks sobre materiais, contribuições, entregáveis e verificações. Consulte [Como solicitar atividades à IA](11_ACOMPANHAMENTO_IA/COMO_SOLICITAR.md) para os comandos operacionais.
+
+A IA registra somente atividades que realizou ou que consegue comprovar a partir de materiais acessíveis. Não monitora automaticamente atividades externas ao ChatGPT. Sugestões da IA não equivalem a validação científica ou aprovação técnica.
+
 ## Estrutura
 
 - `00_GESTAO/` — governança, protocolo, cronograma e decisões.
@@ -34,6 +40,7 @@ Abra [`00_GESTAO/LISTA_DE_PREENCHIMENTO.md`](00_GESTAO/LISTA_DE_PREENCHIMENTO.md
 - `08_RESULTADOS/` — análise e indicadores.
 - `09_PRODUCAO_ACADEMICA/` — relatórios e manuscritos.
 - `10_EVIDENCIAS/` — índice de evidências e documentação visual.
+- `11_ACOMPANHAMENTO_IA/` — pesquisas, feedbacks e contribuições rastreáveis da IA.
 - `templates/` — modelos reutilizáveis.
 - `data/` — arquivos tabulares-modelo e dicionários de dados.
 
