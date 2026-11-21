@@ -14,18 +14,25 @@ Preencha por etapas; não tente completar tudo de uma vez.
 - [ ] Criar um registro de aprendizagem por sessão.
 - [ ] Atualizar matriz de competências apenas com evidências.
 
-## Etapa 3 — fundamentação e contexto
+## Etapa 3 — acompanhamento da IA
+- [ ] Ler `11_ACOMPANHAMENTO_IA/README.md` e `COMO_SOLICITAR.md`.
+- [ ] Registrar pesquisas solicitadas e fontes efetivamente consultadas em `PESQUISAS.csv`.
+- [ ] Solicitar feedbacks de materiais e registrar em `FEEDBACKS.csv`.
+- [ ] Registrar entregáveis e alterações realizadas pela IA em `CONTRIBUICOES_IA.csv`.
+- [ ] Revisar periodicamente o relatório de acompanhamento; validar as conclusões com fontes independentes e orientação humana.
+
+## Etapa 4 — fundamentação e contexto
 - [ ] Executar buscas bibliográficas e registrar estratégia.
 - [ ] Verificar fontes, normas e dados meteorológicos oficiais.
 - [ ] Caracterizar o local somente com autorização e dados adequados.
 
-## Etapa 4 — solução tecnológica
+## Etapa 5 — solução tecnológica
 - [ ] Definir problema e requisitos com potenciais usuários.
 - [ ] Comparar alternativas e documentar decisões.
 - [ ] Revisar riscos com profissional habilitado.
 - [ ] Obter autorizações antes de construir, instalar ou testar.
 
-## Etapa 5 — avaliação e comunicação
+## Etapa 6 — avaliação e comunicação
 - [ ] Aprovar protocolo experimental e instrumentos.
 - [ ] Preservar dados brutos e documentar processamento.
 - [ ] Analisar resultados, incertezas, limitações e resultados negativos.
